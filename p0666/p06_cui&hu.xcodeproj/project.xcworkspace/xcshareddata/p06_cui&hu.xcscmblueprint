@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "F6C9D0E93E1959ADCBBD1CEFE9F419CE13CCAC1F",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "75703F8D31AE5198DEAC4DD2D4E6AFB8114A461D" : 9223372036854775807,
+    "F6C9D0E93E1959ADCBBD1CEFE9F419CE13CCAC1F" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "A7AC9C04-80AB-4BDE-A680-1F079F327760",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "75703F8D31AE5198DEAC4DD2D4E6AFB8114A461D" : "",
+    "F6C9D0E93E1959ADCBBD1CEFE9F419CE13CCAC1F" : "p06_cui&hu\/p06_cui&hu\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "p06_cui&hu",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "p06_cui&hu.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/shileicui\/p01-cui.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "75703F8D31AE5198DEAC4DD2D4E6AFB8114A461D"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/shileicui\/p06_cui-hu.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F6C9D0E93E1959ADCBBD1CEFE9F419CE13CCAC1F"
+    }
+  ]
+}
